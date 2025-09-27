@@ -1,0 +1,34 @@
+{
+  "lunes": [
+    "Lunes de foco total 💪",
+    "Empieza suave, termina fuerte."
+  ],
+  "martes": [
+    "Martes: itera y mejora.",
+    "Un pull request a la vez."
+  ],
+  "miercoles": [
+    "Miércoles de mitad: no aflojes.",
+    "La constancia gana."
+  ],
+  "jueves": [
+    "Jueves: empuja ese feature 🚀",
+    "Hoy se avanza sí o sí."
+  ],
+  "viernes": [
+    "Viernes: cierra bonito y celebra.",
+    "Refactor pequeño, impacto grande."
+  ],
+  "sabado": [
+    "Sábado: crea sin presión.",
+    "Descansar también es avanzar."
+  ],
+  "domingo": [
+    "Domingo: planifica y respira.",
+    "Semana nueva, mente nueva."
+  ],
+  "_default": [
+    "¡Tú puedes con esto!",
+    "Lo que no se dice, encuentra otras formas de hablar φ"
+  ]
+}
